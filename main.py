@@ -13,7 +13,7 @@ def palindrome(word):
 if __name__ == '__main__': 
     #REMOVE PASS AND YOUR CODE GOES HERE
     u_input=input()
-    if u_input=='" "':
+    if u_input==" ":
         print("How")
     else:
         u_list=list(u_input)
