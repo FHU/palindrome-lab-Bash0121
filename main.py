@@ -14,7 +14,7 @@ if __name__ == '__main__':
     #REMOVE PASS AND YOUR CODE GOES HERE
     u_input=input()
     if u_input==" ":
-        print("How")
+        print("False")
     else:
         u_list=list(u_input)
         print(palindrome(u_list))
